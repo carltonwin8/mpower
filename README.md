@@ -1,8 +1,5 @@
 # Nodejs Control Of mPower PRO Via Telnet
 
-Use the
-
-
 
 # From Sequim
 
